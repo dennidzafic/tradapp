@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\isl\\poo\\proj\\TradApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E268A43-F2BF-4FDD-9EB6-8D6E9E48A42F}|TradApp\\TradApp.csproj|d:\\isl\\poo\\proj\\tradapp\\tradapp\\logique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E268A43-F2BF-4FDD-9EB6-8D6E9E48A42F}|TradApp\\TradApp.csproj|solutionrelative:tradapp\\logique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E268A43-F2BF-4FDD-9EB6-8D6E9E48A42F}|TradApp\\TradApp.csproj|d:\\isl\\poo\\proj\\tradapp\\tradapp\\forms\\forminterrogation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E268A43-F2BF-4FDD-9EB6-8D6E9E48A42F}|TradApp\\TradApp.csproj|solutionrelative:tradapp\\forms\\forminterrogation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E268A43-F2BF-4FDD-9EB6-8D6E9E48A42F}|TradApp\\TradApp.csproj|d:\\isl\\poo\\proj\\tradapp\\tradapp\\forms\\formserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E268A43-F2BF-4FDD-9EB6-8D6E9E48A42F}|TradApp\\TradApp.csproj|solutionrelative:tradapp\\forms\\formserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E268A43-F2BF-4FDD-9EB6-8D6E9E48A42F}|TradApp\\TradApp.csproj|d:\\isl\\poo\\proj\\tradapp\\tradapp\\forms\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E268A43-F2BF-4FDD-9EB6-8D6E9E48A42F}|TradApp\\TradApp.csproj|solutionrelative:tradapp\\forms\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E268A43-F2BF-4FDD-9EB6-8D6E9E48A42F}|TradApp\\TradApp.csproj|d:\\isl\\poo\\proj\\tradapp\\tradapp\\datamanip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E268A43-F2BF-4FDD-9EB6-8D6E9E48A42F}|TradApp\\TradApp.csproj|solutionrelative:tradapp\\datamanip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E268A43-F2BF-4FDD-9EB6-8D6E9E48A42F}|TradApp\\TradApp.csproj|d:\\isl\\poo\\proj\\tradapp\\tradapp\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E268A43-F2BF-4FDD-9EB6-8D6E9E48A42F}|TradApp\\TradApp.csproj|solutionrelative:tradapp\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E268A43-F2BF-4FDD-9EB6-8D6E9E48A42F}|TradApp\\TradApp.csproj|d:\\isl\\poo\\proj\\tradapp\\tradapp\\words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E268A43-F2BF-4FDD-9EB6-8D6E9E48A42F}|TradApp\\TradApp.csproj|solutionrelative:tradapp\\words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMenuPrincipal.cs",
+              "DocumentMoniker": "D:\\isl\\poo\\proj\\TradApp\\TradApp\\FORMS\\FormMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "TradApp\\FORMS\\FormMenuPrincipal.cs",
+              "ToolTip": "D:\\isl\\poo\\proj\\TradApp\\TradApp\\FORMS\\FormMenuPrincipal.cs",
+              "RelativeToolTip": "TradApp\\FORMS\\FormMenuPrincipal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:13:02.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Words.cs",
+              "DocumentMoniker": "D:\\isl\\poo\\proj\\TradApp\\TradApp\\Words.cs",
+              "RelativeDocumentMoniker": "TradApp\\Words.cs",
+              "ToolTip": "D:\\isl\\poo\\proj\\TradApp\\TradApp\\Words.cs",
+              "RelativeToolTip": "TradApp\\Words.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:21:15.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataManip.cs",
+              "DocumentMoniker": "D:\\isl\\poo\\proj\\TradApp\\TradApp\\DataManip.cs",
+              "RelativeDocumentMoniker": "TradApp\\DataManip.cs",
+              "ToolTip": "D:\\isl\\poo\\proj\\TradApp\\TradApp\\DataManip.cs",
+              "RelativeToolTip": "TradApp\\DataManip.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:09:49.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormSerie.cs",
+              "DocumentMoniker": "D:\\isl\\poo\\proj\\TradApp\\TradApp\\FORMS\\FormSerie.cs",
+              "RelativeDocumentMoniker": "TradApp\\FORMS\\FormSerie.cs",
+              "ToolTip": "D:\\isl\\poo\\proj\\TradApp\\TradApp\\FORMS\\FormSerie.cs",
+              "RelativeToolTip": "TradApp\\FORMS\\FormSerie.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:45:34.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logique.cs",
+              "DocumentMoniker": "D:\\isl\\poo\\proj\\TradApp\\TradApp\\Logique.cs",
+              "RelativeDocumentMoniker": "TradApp\\Logique.cs",
+              "ToolTip": "D:\\isl\\poo\\proj\\TradApp\\TradApp\\Logique.cs",
+              "RelativeToolTip": "TradApp\\Logique.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwEEAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:34:30.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormInterrogation.cs",
+              "DocumentMoniker": "D:\\isl\\poo\\proj\\TradApp\\TradApp\\FORMS\\FormInterrogation.cs",
+              "RelativeDocumentMoniker": "TradApp\\FORMS\\FormInterrogation.cs",
+              "ToolTip": "D:\\isl\\poo\\proj\\TradApp\\TradApp\\FORMS\\FormInterrogation.cs",
+              "RelativeToolTip": "TradApp\\FORMS\\FormInterrogation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:53:19.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Serie.cs",
+              "DocumentMoniker": "D:\\isl\\poo\\proj\\TradApp\\TradApp\\Serie.cs",
+              "RelativeDocumentMoniker": "TradApp\\Serie.cs",
+              "ToolTip": "D:\\isl\\poo\\proj\\TradApp\\TradApp\\Serie.cs",
+              "RelativeToolTip": "TradApp\\Serie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:47:36.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
